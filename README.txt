@@ -1,0 +1,1 @@
+Upload all files and the assets folder to a PUBLIC GitHub repository. Keep folder names exactly the same. Then Settings > Pages > Deploy from a branch > main > /(root) > Save. Wait for the website link. Phaser loads from a CDN, so the game needs internet access.
